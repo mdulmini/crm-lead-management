@@ -29,7 +29,7 @@ A full-stack CRM application for managing sales leads, tracking pipeline progres
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/crm-lead-management.git
+git clone https://github.com/mdulmini/crm-lead-management.git
 cd crm-lead-management
 ```
 
