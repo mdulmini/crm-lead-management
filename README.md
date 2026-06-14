@@ -40,6 +40,7 @@ npm install
 cp .env.example .env
 npm run seed
 npm run dev
+Runs on http://localhost:5000
 ```
 
 ### 3. Frontend Setup
@@ -47,6 +48,7 @@ npm run dev
 cd frontend
 npm install
 npm run dev
+Runs on http://localhost:5173
 ```
 
 ## Test Credentials
