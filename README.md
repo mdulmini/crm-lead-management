@@ -40,7 +40,11 @@ npm install
 cp .env.example .env
 npm run seed
 npm run dev
-Runs on http://localhost:5000
+
+Backend runs on http://localhost:5000
+To verify backend is working visit http://localhost:5000/api/health
+You should see: {"status":"OK","message":"CRM API is running"}
+
 ```
 
 ### 3. Frontend Setup
@@ -48,7 +52,10 @@ Runs on http://localhost:5000
 cd frontend
 npm install
 npm run dev
-Runs on http://localhost:5173
+
+Frontend runs on http://localhost:5173
+Open http://localhost:5173 in your browser to use the app.
+
 ```
 
 ## Test Credentials
